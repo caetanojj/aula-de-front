@@ -8,14 +8,15 @@ body {
     height: 400px;
     display: flex;
     justify-content: center;
+    gap: 16px;
     align-items: center;
 }
 .bloco {
     background-color: #0ea5e9;
     font-size: 20px;
     margin: 4px;
-    width: 100px;
-    height: 100px;
+    width: 220px;
+    height: 250px;
 }
 
 a {
